@@ -2,5 +2,5 @@
   "version": "v1.0",
   "versionCode": 1,
   "zipUrl": "url",
-  "changelog": "https://github.com/PS2ClassicsVault/Disable-FPS-Limit/blob/main/changelog.md"
+  "changelog": "https://raw.githubusercontent.com/PS2ClassicsVault/Disable-FPS-Limit/refs/heads/main/changelog.md"
 }
