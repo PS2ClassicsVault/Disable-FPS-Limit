@@ -23,4 +23,4 @@ This may cause system instability on certain devices, since we do not have any d
 - Rooted device
 
 ## Changelog
-[View changelog here](url)
+[View changelog here](https://github.com/PS2ClassicsVault/Disable-FPS-Limit/blob/main/changelog.md)
