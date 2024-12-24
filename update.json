@@ -1,6 +1,6 @@
 {
   "version": "v1.0",
   "versionCode": 1,
-  "zipUrl": "url",
+  "zipUrl": "https://github.com/PS2ClassicsVault/Disable-FPS-Limit/releases/download/v1.0/DisableFPSLimit-v1.0.zip",
   "changelog": "https://raw.githubusercontent.com/PS2ClassicsVault/Disable-FPS-Limit/refs/heads/main/changelog.md"
 }
