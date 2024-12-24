@@ -1,0 +1,7 @@
+id=DisableFPSLimit
+name=DisableaFPSLimit
+version=v1.0
+versionCode=1
+author=Cyberdev
+description=Turns VSync off to allow the maximum FPS your device can reach. (Android 10+)
+support=https://github.com/PS2ClassicsVault/Disable-FPS-Limit/issues
