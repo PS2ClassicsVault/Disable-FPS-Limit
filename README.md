@@ -10,7 +10,7 @@ v1.0
 Turns VSync off to allow the maximum FPS your device can reach. (Android 10+) [please read warnings below]
 
 ## WARNING:
-This may cause system instability on certain devices, since we do not have any data that this may occur, we must inform you anyways since this uncaps your framerate, we kindly warn to use this at your own risks.
+This may cause system instability on certain devices & may increase battery usage, since we do not have any data that this may occur, we must inform you anyways since this uncaps your framerate, we kindly warn to use this at your own risks.
 
 ## Installation 
 1. Flash the module in Magisk
